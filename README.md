@@ -117,8 +117,7 @@ To install and evaluate the application on any physical Android device:
 3. On your Android device, enable **"Install from Unknown Sources"** in Settings.
 4. Run the installer, create a test account, and explore the platform!
 
-📦 **[Download StudentHire.apk](apk/StudentHire.apk)**
-
+👉 **[Download & Install StudentHire.apk](https://github.com/Muneeb1272/StudentHire/releases/download/v1.0/app-debug.2.apk)**
 ---
 
 ## 📜 Repository Documentation Resources
@@ -134,7 +133,7 @@ To install and evaluate the application on any physical Android device:
 
 | Field | Detail |
 |-------|--------|
-| 👨‍💻 **Lead Developer** | Muneeb Hamza |
+| 👨‍💻 **Lead Developer** | Ali Zain & Muneeb Hamza |
 | 🎓 **Academic Program** | Bachelor of Science in Information Technology (BS IT) |
 | 🏛️ **Department** | Dept. of Computer Science & Information Technology |
 | 🏫 **Institution** | University of Layyah |
@@ -146,6 +145,6 @@ To install and evaluate the application on any physical Android device:
 
 **© 2026 StudentHire — University of Layyah | Dept. of CS & IT**
 
-*Developed with ❤️ by Muneeb Hamza as part of BS IT Semester Project*
+*Developed  by ALi Zain & Muneeb Hamza as part of BS IT Semester Project*
 
 </div>
