@@ -1,7 +1,7 @@
 <div align="center">
 
-# 🎓 StudentHire
-### AI-Powered Job Matching & Career Development Platform
+ 🎓 StudentHire
+ AI-Powered Job Matching & Career Development Platform
 
 **Connecting Students with Opportunities — Powered by Firebase & Artificial Intelligence**
 
@@ -133,10 +133,10 @@ To install and evaluate the application on any physical Android device:
 
 | Field | Detail |
 |-------|--------|
-| 👨‍💻 **Lead Developer** | Ali Zain & Muneeb Hamza |
-| 🎓 **Academic Program** | Bachelor of Science in Information Technology (BS IT) |
-| 🏛️ **Department** | Dept. of Computer Science & Information Technology |
-| 🏫 **Institution** | University of Layyah |
+| 👨‍💻 **Lead Developer**    | [Ali Zain](https://github.com/Ali-Zain982) & [Muneeb Hamza](https://github.com/Muneeb1272) |
+| 🎓 **Academic Program**  | Bachelor of Science in Information Technology (BS IT) |
+| 🏛️ **Department**        | Dept. of Computer Science & Information Technology |
+| 🏫 **Institution**       | University of Layyah |
 | 👩‍🏫 **Project Evaluator** | Mam Nabiha Komal |
 
 ---
@@ -145,6 +145,6 @@ To install and evaluate the application on any physical Android device:
 
 **© 2026 StudentHire — University of Layyah | Dept. of CS & IT**
 
-*Developed  by ALi Zain & Muneeb Hamza as part of BS IT Semester Project*
+*Developed  by ALi Zain & Muneeb Hamza as part of BS IT 6th Semester Project*
 
 </div>
