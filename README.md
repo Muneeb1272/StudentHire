@@ -32,19 +32,19 @@ The core framework leverages **Firebase Cloud Services** for secure real-time au
 
 | 01. Premium Splash Screen | 02. Targeted Role Selection | 03. Centralized Secure Login |
 | :---: | :---: | :---: |
-| <img src="screenshots/01_splash_screen.jpeg" width="220" alt="Splash Screen"/> | <img src="screenshots/02_role_selection.jpeg" width="220" alt="Role Selection"/> | <img src="screenshots/03_login_screen.jpeg" width="220" alt="Login Gateway"/> |
+| <img src="screenshots/splash-screen.jpeg" width="220" alt="Splash Screen"/> | <img src="screenshots/RoleSlection-Dashboard.jpeg" width="220" alt="Role Selection"/> | <img src="screenshots/Login-page.jpeg" width="220" alt="Login Gateway"/> |
 
 ### 👨‍🎓 Student Experience & AI Modules
 
 | 04. Job Feed Dashboard | 05. AI CV Analysis Engine | 06. AI Resume Builder |
 | :---: | :---: | :---: |
-| <img src="screenshots/04_student_dashboard.jpeg" width="220" alt="Student Feed"/> | <img src="screenshots/05_cv_analyzer.jpeg" width="220" alt="AI Analyzer Panel"/> | <img src="screenshots/06_resume_builder.jpeg" width="220" alt="Resume Builder Drawer"/> |
+| <img src="screenshots/Student-dashboard.jpeg" width="220" alt="Student Feed"/> | <img src="screenshots/AnalyzeCv.jpeg" width="220" alt="AI Analyzer Panel"/> | <img src="screenshots/Ai%20Cv%20Ranking.jpeg" width="220" alt="Resume Builder Drawer"/> |
 
 ### 💼 Recruiter Dashboard & Automated Screening
 
 | 07. Job Management Board | 08. Vacancy Creation Dashboard | 09. AI Top 10 Shortlisting |
 | :---: | :---: | :---: |
-| <img src="screenshots/07_recruiter_dashboard.jpeg" width="220" alt="Recruiter Board"/> | <img src="screenshots/08_post_job..jpeg" width="220" alt="Post Job Form"/> | <img src="screenshots/09_ai_shortlist..jpeg" width="220" alt="AI Automation Panel"/> |
+| <img src="screenshots/Recruiter-dashboard.jpeg" width="220" alt="Recruiter Board"/> | <img src="screenshots/suggestion.jpeg" width="220" alt="Post Job Form"/> | <img src="screenshots/Recruiter-signup.jpeg" width="220" alt="AI Automation Panel"/> |
 
 > *Note: All interface screenshots are organized and sourced directly from the root `/screenshots` directory.*
 
