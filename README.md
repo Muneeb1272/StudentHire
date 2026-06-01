@@ -34,17 +34,23 @@ The core framework leverages **Firebase Cloud Services** for secure real-time au
 | :---: | :---: | :---: |
 | <img src="screenshots/splash-screen.jpeg" width="220" alt="Splash Screen"/> | <img src="screenshots/RoleSlection-Dashboard.jpeg" width="220" alt="Role Selection"/> | <img src="screenshots/Login-page.jpeg" width="220" alt="Login Gateway"/> |
 
-### 👨‍🎓 Student Experience & AI Modules
+### 👨‍🎓 Student Experience & Registration
 
-| 04. Job Feed Dashboard | 05. AI CV Analysis Engine | 06. AI Resume Builder |
+| 04. Student Signup | 05. Student Dashboard / Job Feed | 06. Job Application View |
 | :---: | :---: | :---: |
-| <img src="screenshots/Student-dashboard.jpeg" width="220" alt="Student Feed"/> | <img src="screenshots/AnalyzeCv.jpeg" width="220" alt="AI Analyzer Panel"/> | <img src="screenshots/Ai%20Cv%20Ranking.jpeg" width="220" alt="Resume Builder Drawer"/> |
+| <img src="screenshots/Student-signup.jpeg" width="220" alt="Student Signup"/> | <img src="screenshots/Student-dashboard.jpeg" width="220" alt="Student Dashboard"/> | <img src="screenshots/Apply.jpeg" width="220" alt="Job Application"/> |
+
+### 🧠 AI Smart Modules (Student Side)
+
+| 07. AI CV Builder Interface | 08. AI CV Analysis Engine | 09. Smart Suggestions Panel |
+| :---: | :---: | :---: |
+| <img src="screenshots/Ai%20Cv%20Build.jpeg" width="220" alt="AI CV Build"/> | <img src="screenshots/AnalyzeCv.jpeg" width="220" alt="Analyze CV"/> | <img src="screenshots/suggestion.jpeg" width="220" alt="AI Suggestion"/> |
 
 ### 💼 Recruiter Dashboard & Automated Screening
 
-| 07. Job Management Board | 08. Vacancy Creation Dashboard | 09. AI Top 10 Shortlisting |
+| 10. Recruiter Signup | 11. Recruiter Dashboard | 12. AI Top 10 CV Ranking |
 | :---: | :---: | :---: |
-| <img src="screenshots/Recruiter-dashboard.jpeg" width="220" alt="Recruiter Board"/> | <img src="screenshots/suggestion.jpeg" width="220" alt="Post Job Form"/> | <img src="screenshots/Recruiter-signup.jpeg" width="220" alt="AI Automation Panel"/> |
+| <img src="screenshots/Recruiter-signup.jpeg" width="220" alt="Recruiter Signup"/> | <img src="screenshots/Recruiter-dashboard.jpeg" width="220" alt="Recruiter Dashboard"/> | <img src="screenshots/Ai%20Cv%20Ranking.jpeg" width="220" alt="AI CV Ranking"/> |
 
 > *Note: All interface screenshots are organized and sourced directly from the root `/screenshots` directory.*
 
