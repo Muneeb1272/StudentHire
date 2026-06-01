@@ -32,19 +32,19 @@ The core framework leverages **Firebase Cloud Services** for secure real-time au
 
 | 01. Premium Splash Screen | 02. Targeted Role Selection | 03. Centralized Secure Login |
 | :---: | :---: | :---: |
-| <img src="screenshots/01_splash_screen.png" width="220" alt="Splash Screen"/> | <img src="screenshots/02_role_selection.png" width="220" alt="Role Selection"/> | <img src="screenshots/03_login_screen.png" width="220" alt="Login Gateway"/> |
+| <img src="screenshots/01_splash_screen.jpeg" width="220" alt="Splash Screen"/> | <img src="screenshots/02_role_selection.jpeg" width="220" alt="Role Selection"/> | <img src="screenshots/03_login_screen.jpeg" width="220" alt="Login Gateway"/> |
 
 ### 👨‍🎓 Student Experience & AI Modules
 
 | 04. Job Feed Dashboard | 05. AI CV Analysis Engine | 06. AI Resume Builder |
 | :---: | :---: | :---: |
-| <img src="screenshots/04_student_dashboard.png" width="220" alt="Student Feed"/> | <img src="screenshots/05_cv_analyzer.png" width="220" alt="AI Analyzer Panel"/> | <img src="screenshots/06_resume_builder.png" width="220" alt="Resume Builder Drawer"/> |
+| <img src="screenshots/04_student_dashboard.jpeg" width="220" alt="Student Feed"/> | <img src="screenshots/05_cv_analyzer.jpeg" width="220" alt="AI Analyzer Panel"/> | <img src="screenshots/06_resume_builder.jpeg" width="220" alt="Resume Builder Drawer"/> |
 
 ### 💼 Recruiter Dashboard & Automated Screening
 
 | 07. Job Management Board | 08. Vacancy Creation Dashboard | 09. AI Top 10 Shortlisting |
 | :---: | :---: | :---: |
-| <img src="screenshots/07_recruiter_dashboard.png" width="220" alt="Recruiter Board"/> | <img src="screenshots/08_post_job.png" width="220" alt="Post Job Form"/> | <img src="screenshots/09_ai_shortlist.png" width="220" alt="AI Automation Panel"/> |
+| <img src="screenshots/07_recruiter_dashboard.jpeg" width="220" alt="Recruiter Board"/> | <img src="screenshots/08_post_job..jpeg" width="220" alt="Post Job Form"/> | <img src="screenshots/09_ai_shortlist..jpeg" width="220" alt="AI Automation Panel"/> |
 
 > *Note: All interface screenshots are organized and sourced directly from the root `/screenshots` directory.*
 
@@ -119,8 +119,8 @@ To install and evaluate the application on any physical Android device:
 
 | Document | Link |
 |----------|------|
-| 📄 Official App Privacy Policy | [View PDF](docs/privacy_policy.pdf) |
-| 📘 Complete App User Manual | [View PDF](docs/user_manual.pdf) |
+| 📄 Official App Privacy Policy | [View PDF](docs/StudentHire_Privacy_Policy.pdf) |
+| 📘 Complete App User Manual | [View PDF](docs/StudentHire_User_Manual.pdf) |
 
 ---
 
