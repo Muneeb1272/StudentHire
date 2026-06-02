@@ -1,0 +1,3 @@
+```text
+   *.html linguist-documentation=true
+   *.html linguist-vendored=true
